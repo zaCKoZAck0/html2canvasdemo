@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.App > div div{
+  border: solid 1px black;
+}
+
+h1, h2, h3, h4{
+  margin: 5px;
+}
+
